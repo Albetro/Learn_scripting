@@ -12,11 +12,11 @@ echo "GOOD MORNING $name"
 
 sleep 2
 
-echo "you're looking good today $name"
+echo "You're looking good today $name"
 
 sleep 2
 
-echo "you have the best $compliment  $name"
+echo "You have the best $compliment  $name"
  
 sleep 2
 
